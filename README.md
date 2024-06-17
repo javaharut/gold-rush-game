@@ -14,6 +14,7 @@ That's it. Both server and client are ready to use.
 3. Login with the registered user
 
 App image is shown below
+
 ![screenshot](assets/login.png)
 
 ### Game
